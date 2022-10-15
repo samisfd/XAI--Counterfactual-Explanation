@@ -8,3 +8,6 @@
 - Using counterfactual example to facilitate the discovery of biases in algorithm.
 
 **Dataset**: Loan application which already surfers from sampling bias
+
+
+<img src="img/bias.png" width="300" height="200" />
