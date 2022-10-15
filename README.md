@@ -11,3 +11,13 @@
 
 
 <img src="img/bias.png" width="500" height="200" />
+
+
+### Requirements
+- tensorflow >r2.2
+- Python 3.
+- scikit-learn
+- mathplotlib
+- plotly
+
+
