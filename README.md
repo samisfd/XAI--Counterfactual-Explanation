@@ -10,4 +10,4 @@
 **Dataset**: Loan application which already surfers from sampling bias
 
 
-<img src="img/bias.png" width="300" height="200" />
+<img src="img/bias.png" width="500" height="200" />
